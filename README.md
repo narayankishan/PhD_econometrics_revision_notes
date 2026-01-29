@@ -8,7 +8,7 @@ This repository contains my personal revision notes for:
 taught by **Jianfae Cao** at **Northeastern University**.
 
 📄 **Download the notes**:  
-[Advanced Econometrics Notes (PDF)](./Adv_Econometrics_Notes.pdf)
+[PhD_econometrics_revision_notes (PDF)](./narayan_metrics_notes.pdf)
 
 ---
 
